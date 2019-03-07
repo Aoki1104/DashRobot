@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 498}
+  m_MinSize: {x: 950, y: 474}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -110,10 +110,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 1021, y: 448}
-  m_MaxSize: {x: 26016, y: 10024}
+  m_MinSize: {x: 1013, y: 424}
+  m_MaxSize: {x: 26008, y: 10024}
   vertical: 1
-  controlID: 209
+  controlID: 1883
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -137,10 +137,10 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 947
-  m_MinSize: {x: 1021, y: 448}
-  m_MaxSize: {x: 26016, y: 10024}
+  m_MinSize: {x: 1013, y: 424}
+  m_MaxSize: {x: 26008, y: 10024}
   vertical: 0
-  controlID: 210
+  controlID: 1884
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -162,10 +162,10 @@ MonoBehaviour:
     y: 0
     width: 546
     height: 947
-  m_MinSize: {x: 306, y: 448}
-  m_MaxSize: {x: 8006, y: 8048}
+  m_MinSize: {x: 302, y: 424}
+  m_MaxSize: {x: 8002, y: 8024}
   vertical: 1
-  controlID: 211
+  controlID: 1957
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -187,10 +187,10 @@ MonoBehaviour:
     y: 0
     width: 546
     height: 471
-  m_MinSize: {x: 306, y: 224}
-  m_MaxSize: {x: 8006, y: 4024}
+  m_MinSize: {x: 302, y: 224}
+  m_MaxSize: {x: 8002, y: 4024}
   vertical: 0
-  controlID: 212
+  controlID: 1958
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -321,7 +321,7 @@ MonoBehaviour:
   m_MinSize: {x: 279, y: 198}
   m_MaxSize: {x: 4004, y: 8048}
   vertical: 1
-  controlID: 101
+  controlID: 1885
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -427,7 +427,7 @@ MonoBehaviour:
     width: 544
     height: 456
   m_PersistentViewDataDictionary: {fileID: 0}
-  m_MaximizeOnPlay: 1
+  m_MaximizeOnPlay: 0
   m_Gizmos: 0
   m_Stats: 0
   m_SelectedSizes: 07000000000000000000000005000000000000000000000000000000000000000000000000000000
@@ -589,7 +589,6 @@ MonoBehaviour:
   m_ViewTransforms:
     m_KeySerializationHelper:
     - {fileID: 1107601856718254512, guid: da2b26aa42af47a4f9c4aa7654b78645, type: 2}
-    - {fileID: 1107440318306903938, guid: fdd3d6adc813bcf46ace9c323d95f644, type: 2}
     - {fileID: 1107190212423144288, guid: 95b7da4960ac3de4cb252009c0d66fe4, type: 2}
     m_ValueSerializationHelper:
     - e00: 0.1663158
@@ -600,22 +599,6 @@ MonoBehaviour:
       e11: 0.1663158
       e12: 0
       e13: 190.2
-      e20: 0
-      e21: 0
-      e22: 1
-      e23: 0
-      e30: 0
-      e31: 0
-      e32: 0
-      e33: 1
-    - e00: 0.3968421
-      e01: 0
-      e02: 0
-      e03: -4.842102
-      e10: 0
-      e11: 0.3968421
-      e12: 0
-      e13: 172.26842
       e20: 0
       e21: 0
       e22: 1
@@ -742,7 +725,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 50220000
+      m_SelectedIDs: 
       m_LastClickedID: 0
       m_ExpandedIDs: d4fbffff
       m_RenameOverlay:
@@ -898,34 +881,34 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts/Title
+    - Assets/Sounds
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/Scripts/Title
+  - Assets/Sounds
   m_LastFoldersGridSize: 96
-  m_LastProjectPath: C:\Users\taoki\Desktop\DashRobot
+  m_LastProjectPath: C:\Users\taoki\Documents\GitHub\DashRobot
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 80280000
-    m_LastClickedID: 10368
-    m_ExpandedIDs: 00000000542600009c26000070270000d0270000e229000000ca9a3b
+    m_SelectedIDs: e2290000
+    m_LastClickedID: 10722
+    m_ExpandedIDs: 000000005426000070270000ac270000d027000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Prefab
+      m_OriginalName: Prefab
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 10834
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 16}
     m_SearchString: 
@@ -939,7 +922,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000542600009c26000070270000d0270000e2290000
+    m_ExpandedIDs: 000000005426000070270000ac270000d02700000630000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
